@@ -1,0 +1,3607 @@
+fileFormatVersion: 2
+guid: 5354cf101dd2c9e40b673acbdfd923e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2308065701909021076
+    second: lol icons hud_0
+  - first:
+      213: -2291922927368957602
+    second: lol icons hud_1
+  - first:
+      213: -1721821169775806151
+    second: lol icons hud_2
+  - first:
+      213: 4985392078214016741
+    second: lol icons hud_3
+  - first:
+      213: 158812820028240090
+    second: lol icons hud_4
+  - first:
+      213: -3463611213085895139
+    second: lol icons hud_5
+  - first:
+      213: 63717281805821530
+    second: lol icons hud_6
+  - first:
+      213: -6039747684178714984
+    second: lol icons hud_7
+  - first:
+      213: 8858502156477178144
+    second: lol icons hud_8
+  - first:
+      213: -6287035639866467976
+    second: lol icons hud_9
+  - first:
+      213: -2645934601203576585
+    second: lol icons hud_10
+  - first:
+      213: -7899031673316639102
+    second: lol icons hud_11
+  - first:
+      213: -7759794104077327762
+    second: lol icons hud_12
+  - first:
+      213: -2743522995886134466
+    second: lol icons hud_13
+  - first:
+      213: 1784458923185838146
+    second: lol icons hud_14
+  - first:
+      213: -4046802630990287082
+    second: lol icons hud_15
+  - first:
+      213: 6634654779778331606
+    second: lol icons hud_16
+  - first:
+      213: -4716499101640010458
+    second: lol icons hud_17
+  - first:
+      213: 716724694589872827
+    second: lol icons hud_18
+  - first:
+      213: -6995047164995163927
+    second: lol icons hud_19
+  - first:
+      213: -716803105135212648
+    second: lol icons hud_20
+  - first:
+      213: -6094281522260746677
+    second: lol icons hud_21
+  - first:
+      213: -3239669308150907685
+    second: lol icons hud_22
+  - first:
+      213: -5086739284763289085
+    second: lol icons hud_23
+  - first:
+      213: 2605837323233464282
+    second: lol icons hud_24
+  - first:
+      213: 1015431314034275600
+    second: lol icons hud_25
+  - first:
+      213: 5354634997253493395
+    second: lol icons hud_26
+  - first:
+      213: 2471314549284705916
+    second: lol icons hud_27
+  - first:
+      213: 5590896252894841816
+    second: lol icons hud_28
+  - first:
+      213: 3788936141113681570
+    second: lol icons hud_29
+  - first:
+      213: 2311638332718548801
+    second: lol icons hud_30
+  - first:
+      213: -8531411972279020985
+    second: lol icons hud_31
+  - first:
+      213: 6598021274092195385
+    second: lol icons hud_32
+  - first:
+      213: 4577343012060450350
+    second: lol icons hud_33
+  - first:
+      213: 5198607146453233709
+    second: lol icons hud_34
+  - first:
+      213: -2780839418083217163
+    second: lol icons hud_35
+  - first:
+      213: 803686129478459581
+    second: lol icons hud_36
+  - first:
+      213: -8441833486785475378
+    second: lol icons hud_37
+  - first:
+      213: -162407413272473834
+    second: lol icons hud_38
+  - first:
+      213: 366420899490681925
+    second: lol icons hud_39
+  - first:
+      213: -4820285470923815088
+    second: lol icons hud_40
+  - first:
+      213: -7785643225253733641
+    second: lol icons hud_41
+  - first:
+      213: -7734625380146461080
+    second: lol icons hud_42
+  - first:
+      213: -9201227616763022516
+    second: lol icons hud_43
+  - first:
+      213: 451031881791326496
+    second: lol icons hud_44
+  - first:
+      213: -5065744829700967134
+    second: lol icons hud_45
+  - first:
+      213: 3115210924619469976
+    second: lol icons hud_46
+  - first:
+      213: 709571098654326008
+    second: lol icons hud_47
+  - first:
+      213: 5718151028702653027
+    second: lol icons hud_48
+  - first:
+      213: 5105165199931302399
+    second: lol icons hud_49
+  - first:
+      213: 7093732176211958907
+    second: lol icons hud_50
+  - first:
+      213: -3625368638406438247
+    second: lol icons hud_51
+  - first:
+      213: -6623227785954744527
+    second: lol icons hud_52
+  - first:
+      213: 2506680371276100867
+    second: lol icons hud_53
+  - first:
+      213: -7785089638099312077
+    second: lol icons hud_54
+  - first:
+      213: 5351625683405981809
+    second: lol icons hud_55
+  - first:
+      213: 3700502463883643641
+    second: lol icons hud_56
+  - first:
+      213: 4778461905002485060
+    second: lol icons hud_57
+  - first:
+      213: -6456990495849143123
+    second: lol icons hud_58
+  - first:
+      213: -6960930353482226300
+    second: lol icons hud_59
+  - first:
+      213: -9029231489936933627
+    second: lol icons hud_60
+  - first:
+      213: -7455433208672906168
+    second: lol icons hud_61
+  - first:
+      213: 3026054676636608542
+    second: lol icons hud_62
+  - first:
+      213: 5671676041336392949
+    second: lol icons hud_63
+  - first:
+      213: 8608825779978001607
+    second: lol icons hud_64
+  - first:
+      213: 253370864261957928
+    second: lol icons hud_65
+  - first:
+      213: -4127881299386817417
+    second: lol icons hud_66
+  - first:
+      213: -2098955240762078752
+    second: lol icons hud_67
+  - first:
+      213: -6211521242303840212
+    second: lol icons hud_68
+  - first:
+      213: -6413062409608485280
+    second: lol icons hud_69
+  - first:
+      213: -7357992094282514108
+    second: lol icons hud_70
+  - first:
+      213: -418528995109692694
+    second: lol icons hud_71
+  - first:
+      213: 3970100624746478741
+    second: lol icons hud_72
+  - first:
+      213: -4652695859000545596
+    second: lol icons hud_73
+  - first:
+      213: 7017514433467356243
+    second: lol icons hud_74
+  - first:
+      213: -830291042668888883
+    second: lol icons hud_75
+  - first:
+      213: -4505402710768778729
+    second: lol icons hud_76
+  - first:
+      213: 3692061323990591789
+    second: lol icons hud_77
+  - first:
+      213: -5548850768594897036
+    second: lol icons hud_78
+  - first:
+      213: -2218259831262396090
+    second: lol icons hud_79
+  - first:
+      213: -3696042299948769798
+    second: lol icons hud_80
+  - first:
+      213: -2916053594938044742
+    second: lol icons hud_81
+  - first:
+      213: -980963346699292237
+    second: lol icons hud_82
+  - first:
+      213: -4153580358968528157
+    second: lol icons hud_83
+  - first:
+      213: -40472897454868102
+    second: lol icons hud_84
+  - first:
+      213: -4088047488181360166
+    second: lol icons hud_85
+  - first:
+      213: -1810310521451434047
+    second: lol icons hud_86
+  - first:
+      213: 6123544957812091909
+    second: lol icons hud_87
+  - first:
+      213: -5792937291030928428
+    second: lol icons hud_88
+  - first:
+      213: -7402547764646648754
+    second: lol icons hud_89
+  - first:
+      213: -7942325783501947453
+    second: lol icons hud_90
+  - first:
+      213: 5758568029757084641
+    second: lol icons hud_91
+  - first:
+      213: -6480917777601901208
+    second: lol icons hud_92
+  - first:
+      213: -3937910159819224206
+    second: lol icons hud_93
+  - first:
+      213: -1768785184630309961
+    second: lol icons hud_94
+  - first:
+      213: -6064317841366076083
+    second: lol icons hud_95
+  - first:
+      213: -5082609274409258507
+    second: lol icons hud_96
+  - first:
+      213: -1045694924271591217
+    second: lol icons hud_97
+  - first:
+      213: -9054845717512846071
+    second: lol icons hud_98
+  - first:
+      213: 3388118860574141915
+    second: lol icons hud_99
+  - first:
+      213: -5202339243081711555
+    second: lol icons hud_100
+  - first:
+      213: 6903636397661347147
+    second: lol icons hud_101
+  - first:
+      213: 2843513113095555975
+    second: lol icons hud_102
+  - first:
+      213: -2552667243625005071
+    second: lol icons hud_103
+  - first:
+      213: 4238336301986900790
+    second: lol icons hud_104
+  - first:
+      213: -4701502919849784537
+    second: lol icons hud_105
+  - first:
+      213: -191044504145703935
+    second: lol icons hud_106
+  - first:
+      213: 936839165254012498
+    second: lol icons hud_107
+  - first:
+      213: -4154981597912115192
+    second: lol icons hud_108
+  - first:
+      213: -4515258462884494864
+    second: lol icons hud_109
+  - first:
+      213: 8267139815347729110
+    second: lol icons hud_110
+  - first:
+      213: 5634804607918524070
+    second: lol icons hud_111
+  - first:
+      213: -1882021548300541267
+    second: lol icons hud_112
+  - first:
+      213: 8026533149581545092
+    second: lol icons hud_113
+  - first:
+      213: 4201544996298089944
+    second: lol icons hud_114
+  - first:
+      213: 6532114616675613253
+    second: lol icons hud_115
+  - first:
+      213: -675609945479503100
+    second: lol icons hud_116
+  - first:
+      213: -586584158114193605
+    second: lol icons hud_117
+  - first:
+      213: -5366212119956797
+    second: lol icons hud_118
+  - first:
+      213: -9025624417767657076
+    second: lol icons hud_119
+  - first:
+      213: 8720134931995767063
+    second: lol icons hud_120
+  - first:
+      213: -5617692648923215490
+    second: lol icons hud_121
+  - first:
+      213: 4954808072749725945
+    second: lol icons hud_122
+  - first:
+      213: -3731101864429403028
+    second: lol icons hud_123
+  - first:
+      213: -2279639717647800923
+    second: lol icons hud_124
+  - first:
+      213: -150196632952881765
+    second: lol icons hud_125
+  - first:
+      213: -3663912125220776747
+    second: lol icons hud_126
+  - first:
+      213: 3853793093379539670
+    second: lol icons hud_127
+  - first:
+      213: -2911129997529033306
+    second: lol icons hud_128
+  - first:
+      213: -3953749651818959286
+    second: lol icons hud_129
+  - first:
+      213: 5887983450968671400
+    second: lol icons hud_130
+  - first:
+      213: -7973165078306094669
+    second: lol icons hud_131
+  - first:
+      213: -7917948376208879999
+    second: lol icons hud_132
+  - first:
+      213: -880685134096698105
+    second: lol icons hud_133
+  - first:
+      213: 610827865251799447
+    second: lol icons hud_134
+  - first:
+      213: 629875573885476557
+    second: lol icons hud_135
+  - first:
+      213: -4044217084303756038
+    second: lol icons hud_136
+  - first:
+      213: -1406695616950777932
+    second: lol icons hud_137
+  - first:
+      213: 6235441512821439868
+    second: lol icons hud_138
+  - first:
+      213: -6121630778528895888
+    second: lol icons hud_139
+  - first:
+      213: 8540472237963428690
+    second: lol icons hud_140
+  - first:
+      213: 3821973586462793996
+    second: lol icons hud_141
+  - first:
+      213: 1062998261242501238
+    second: lol icons hud_142
+  - first:
+      213: 8498152589388503379
+    second: lol icons hud_143
+  - first:
+      213: 6012831935223513652
+    second: lol icons hud_144
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lol icons hud_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1001
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f82e55dc4d52344ca098d69ec5f76b6
+      internalID: -2308065701909021076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1001
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486fb537c91d8b49b98266c2c7112ce
+      internalID: -2291922927368957602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 978
+        width: 198
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c048eec7fd2aadb4c840951cb17e1ab6
+      internalID: -1721821169775806151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 995
+        width: 466
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62615f9477a18624e83cdd41676e65b3
+      internalID: 4985392078214016741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_4
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 993
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d0870b668b1d1419dd7072f28d9863
+      internalID: 158812820028240090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 993
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b048d66e1d3e408ae3aea18fa29c4
+      internalID: -3463611213085895139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_6
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 993
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa568cf356abe942b1f8f19c5d7a157
+      internalID: 63717281805821530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 993
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bfa6814d270b847b4ff599671a4940
+      internalID: -6039747684178714984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 980
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19955f8b52446224eac1dde85d125b9e
+      internalID: 8858502156477178144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 980
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378d3e9401ec7645b61b1eeb17d336b
+      internalID: -6287035639866467976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 977
+        width: 460
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc00a58ac4028a641b6c17b32e27fec1
+      internalID: -2645934601203576585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_11
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 967
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56edde6093cc22a4f85984a1d25c5d35
+      internalID: -7899031673316639102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 967
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2efb3a6c5315c47a014bcfb1132e0d
+      internalID: -7759794104077327762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_13
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 967
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c454e7e35b3d8794fbca5488485deb9b
+      internalID: -2743522995886134466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 967
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f29439d81107543a49e5d3828e6d9e
+      internalID: 1784458923185838146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_15
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 958
+        width: 460
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86981c40f4c5c5b47a835cedcb84f8df
+      internalID: -4046802630990287082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 948
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e6b032b41f42a4ab3ccd57bb962871
+      internalID: 6634654779778331606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_17
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 941
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab403ec95b45a14fa3addc3269bbebf
+      internalID: -4716499101640010458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 941
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8136b4f3fbf5140ba2b66084fb5bce
+      internalID: 716724694589872827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_19
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 941
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647f297ba5001744ba6f38afc9a8173
+      internalID: -6995047164995163927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_20
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 941
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ec167ebff205648a5eb93ba40effb4
+      internalID: -716803105135212648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 618
+        width: 323
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560a292d4d985764fa7149483f412da9
+      internalID: -6094281522260746677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 925
+        width: 485
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01f26c8d510ff44bccf911b081b65c
+      internalID: -3239669308150907685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_23
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 915
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ffa1ff40a5d047a8e441b1368a8d2
+      internalID: -5086739284763289085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_24
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 915
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e3d1d07aa99f40bfd5cbfd759d826
+      internalID: 2605837323233464282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_25
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 915
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c3c4566f367442a3d839b01ca2550
+      internalID: 1015431314034275600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_26
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 915
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d46bdb4ec88f4e80534de9e2cbd42
+      internalID: 5354634997253493395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 902
+        width: 485
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bd44c5b9dbb74eb57b0a2289f933f
+      internalID: 2471314549284705916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 879
+        width: 485
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641a03249adf12448c33e7a08888c2e
+      internalID: 5590896252894841816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 853
+        width: 210
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb4c02ac54251498789d9b3f3e7735
+      internalID: 3788936141113681570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_30
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 853
+        width: 210
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed43c747452b743a78c882f3149304
+      internalID: 2311638332718548801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_31
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 830
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98b36d45b0a0b44b4aa80706b8ea36
+      internalID: -8531411972279020985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 839
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a2db2e11d5d8439fb330a9830ab7e
+      internalID: 6598021274092195385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 836
+        width: 152
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b7fc35628ca146917d377cf05d4b9
+      internalID: 4577343012060450350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 836
+        width: 152
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce6ea6e3d18d348a4926eb97bcc68f
+      internalID: 5198607146453233709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 734
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b9ed2ca88ac34a9d17543c008716c
+      internalID: -2780839418083217163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 777
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2598cc2605ff6c4b97284587ea5fc79
+      internalID: 803686129478459581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 766
+        width: 236
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406c9d780d56cf4f8a2047690ed081b
+      internalID: -8441833486785475378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_38
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 764
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac52a13f3319341a23aef1f59ae83e
+      internalID: -162407413272473834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 771
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e50d22aa4d924381a898cb199b019
+      internalID: 366420899490681925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_40
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 773
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda4fd51d0c69264186f4b7b1c228da3
+      internalID: -4820285470923815088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_41
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 758
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1ab36dccd646499a1fbc88545b161
+      internalID: -7785643225253733641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_42
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 751
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcb2cd484c7a648bee99f7ab6e043e
+      internalID: -7734625380146461080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_43
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 752
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b382a8565557da0469c8d3af982668aa
+      internalID: -9201227616763022516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_44
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 750
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f75d194979b9438b54cd77505c989
+      internalID: 451031881791326496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 701
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f2ccea7241a2469affd780dd1a522
+      internalID: -5065744829700967134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_46
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 683
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3254edc19ed83a5498032136931a028a
+      internalID: 3115210924619469976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 742
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70137e98f4786d1438f005c24a0c5130
+      internalID: 709571098654326008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_48
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f4083bcc981d4fa024ecf2dae2aeb
+      internalID: 5718151028702653027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_49
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d5c6fa4d2d9243abed524d663cb65
+      internalID: 5105165199931302399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_50
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb67504472563424da0d2608640aad28
+      internalID: 7093732176211958907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1460242a417441869ee1dc5aa1489
+      internalID: -3625368638406438247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5177c84189f4b4da724d8df56ab01d
+      internalID: -6623227785954744527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9341017f7049db945a3ae562164cfb47
+      internalID: 2506680371276100867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_54
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 718
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4f970018d03341a3370346e70c171
+      internalID: -7785089638099312077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_55
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 726
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0409043ee2cfb84a8490ec738bd9601
+      internalID: 5351625683405981809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_56
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 731
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8664aa79f044c4eb14ff9ce3fe18d6
+      internalID: 3700502463883643641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_57
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 731
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0faf2345f7705d4789ae4f10b7e990c
+      internalID: 4778461905002485060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_58
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 739
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efe666aa1da8f8498cd01e2c4e034aa
+      internalID: -6456990495849143123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_59
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 719
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ddb086f33eb149a433d795e1ccc66
+      internalID: -6960930353482226300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 734
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4d7437da2ae0342833fb9099b5e199
+      internalID: -9029231489936933627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_61
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 727
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174978f5e515f0b48a37e3f3415cf8ef
+      internalID: -7455433208672906168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 666
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3584b450935a64785af6807da5f745
+      internalID: 3026054676636608542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_63
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 715
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0320fa4b69048e94fb0eef24f249946a
+      internalID: 5671676041336392949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_64
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 724
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a7fdc51600c14e9ab99956f733808
+      internalID: 8608825779978001607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 716
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be70912494469d94f9399e7a3a5284c5
+      internalID: 253370864261957928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_66
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 692
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cedc59d1a14ce5448b89c6f2fd11191
+      internalID: -4127881299386817417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 698
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8cfa3c8acc4a4899cf664a420b7b4
+      internalID: -2098955240762078752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_68
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 697
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7425fb28effa7da488cd72be5cee4b13
+      internalID: -6211521242303840212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_69
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d620303eac98c4ab0ac4d21d8c1a0f
+      internalID: -6413062409608485280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_70
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8cc37afb15bd42babdfd044d383cb
+      internalID: -7357992094282514108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_71
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482d9013532880409cffb2c1f0f43ab
+      internalID: -418528995109692694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_72
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcab4955235a817409262e3a553dcf7c
+      internalID: 3970100624746478741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_73
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af2eef08cf6704598939b31da04542
+      internalID: -4652695859000545596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a778db27d9c4f44b9b04936c747363
+      internalID: 7017514433467356243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_75
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 681
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28bb5c1603b0fe4a91f2c4ef398dfd3
+      internalID: -830291042668888883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_76
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 683
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe7b525ad7e734f8af21a48d80e921
+      internalID: -4505402710768778729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_77
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 695
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09e3a176c7b0045ae3755d757f0790
+      internalID: 3692061323990591789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 670
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e618a32ff8f9419f20ac90dbeb0bb
+      internalID: -5548850768594897036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_79
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 661
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e84816849eb44fa9dceadde79ce6f
+      internalID: -2218259831262396090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_80
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 661
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d32d975f5b86f4fb921b989e574220
+      internalID: -3696042299948769798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_81
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 659
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2809961af616b604ca5336ac94a32e6a
+      internalID: -2916053594938044742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_82
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 666
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79852b322e9ae741a6ee472fa4e35c8
+      internalID: -980963346699292237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_83
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 599
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a82af0473e52241a784a4e1becc64b
+      internalID: -4153580358968528157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_84
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 595
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b96c384953e64f9c500f10da0d9aa
+      internalID: -40472897454868102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_85
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 618
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f525cea05430e478894bc749c59a02
+      internalID: -4088047488181360166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_86
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 600
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3974f1a0a237b3469eea691d9f0924e
+      internalID: -1810310521451434047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_87
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 599
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e318d56770db1644a92a080d263cb74
+      internalID: 6123544957812091909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_88
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 589
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b740af4ef7bb418e1d13263a9131e
+      internalID: -5792937291030928428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_89
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 634
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ec3759fcfd6d4a87b3ecb74eacfb5
+      internalID: -7402547764646648754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_90
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 634
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898106bb010d614e9075d3e7590074b
+      internalID: -7942325783501947453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_91
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 594
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110d91a22604d449aa63bc4b875983f
+      internalID: 5758568029757084641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_92
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 594
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1b2f5f984e28488d82f288f0642d9
+      internalID: -6480917777601901208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 254
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5a9fc782935b499649751ab54566a
+      internalID: -3937910159819224206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_94
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 543
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5219275123272547aac8b05676b68cd
+      internalID: -1768785184630309961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_95
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 587
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafdab958302e24f92b2c64c8ad88cb
+      internalID: -6064317841366076083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_96
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 587
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274cca21fea7e449a0b98e588506a33
+      internalID: -5082609274409258507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_97
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 538
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b59c8a983e06764b975d9bd70fda631
+      internalID: -1045694924271591217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 434
+        width: 4
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9734d9d9632e654f948c07c88d38e5e
+      internalID: -9054845717512846071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 430
+        width: 416
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e977ce5f1ef1f4eb8d0e0e95f4e351
+      internalID: 3388118860574141915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_100
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 543
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea121002b2c464784556c0edf87c61
+      internalID: -5202339243081711555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_101
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 543
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65489d6ebb9b4a841843ab51890f6c8a
+      internalID: 6903636397661347147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_102
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 543
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5d6caebfa98b469adc265dd1fe520
+      internalID: 2843513113095555975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_103
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 543
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0872f7c0cf74b41b6cec1c41e9ddbf
+      internalID: -2552667243625005071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_104
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 553
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999c9e032c2b2c40a875e939e3128ef
+      internalID: 4238336301986900790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_105
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 543
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c462857d4220bc42a1eadcc1362b01f
+      internalID: -4701502919849784537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_106
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 488
+        width: 299
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781c7302f08c084c8eb87aabe1b52b3
+      internalID: -191044504145703935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_107
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 450
+        width: 292
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471d6b2075ae184cbcf581ab8be969a
+      internalID: 936839165254012498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_108
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a9cc5839021d649966fde086c31300
+      internalID: -4154981597912115192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_109
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e7b8b26c6ed364996d7d42bf0e815c
+      internalID: -4515258462884494864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_110
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390704bdf1638f84cbe158b841beedd2
+      internalID: 8267139815347729110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_111
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4dcd2f5290eaa45affae09a085ab64
+      internalID: 5634804607918524070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_112
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6fed06874e3974996e35bd1942e756
+      internalID: -1882021548300541267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_113
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 450
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb27fafc8f80f4d9487aff14885fa9
+      internalID: 8026533149581545092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_114
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 383
+        width: 198
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712ca2adf93c20e48ac3893e7c9d3c78
+      internalID: 4201544996298089944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 383
+        width: 198
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a424f394304d0884daa4b01fc5ef7673
+      internalID: 6532114616675613253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_116
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 383
+        width: 198
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddfa1cf7d0a72745acd46793ecbe397
+      internalID: -675609945479503100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_117
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 193
+        width: 197
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ec3fda8c2ee5428fb46de82f4096b
+      internalID: -586584158114193605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_118
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 184
+        width: 174
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b74bc0f36d414fbc0831fe6dfaaa6
+      internalID: -5366212119956797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_119
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 190
+        width: 581
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3128edd1c3f274aa1a8e195bae2b89
+      internalID: -9025624417767657076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 459
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933076e55bf7b704089e568f868a124c
+      internalID: 8720134931995767063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_121
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 147
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20801c718da5e34da9ee88e6a4cdb37
+      internalID: -5617692648923215490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_122
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 147
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ffaf4bf095aeb428004036dbe3b2c2
+      internalID: 4954808072749725945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_123
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 149
+        width: 125
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b575c6055f566e4d87bee9762f8fb0d
+      internalID: -3731101864429403028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_124
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 155
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db005fd4b9827d4c90fd7a000dbb786
+      internalID: -2279639717647800923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_125
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 156
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2518372d91a2c4380dce310ad021fb
+      internalID: -150196632952881765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_126
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 155
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15da8da0295c0040ae31e6d7d0c714f
+      internalID: -3663912125220776747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_127
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 68
+        width: 197
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd732f5c3d181a468a190cda0878473
+      internalID: 3853793093379539670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 459
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad2e0617e78d04439544962f0e3bbe1
+      internalID: -2911129997529033306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_129
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 124
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f77f2eb49f41284b99cb67cc6df4911
+      internalID: -3953749651818959286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_130
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 30
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74430a4ef72466b4ca5771c9da792a74
+      internalID: 5887983450968671400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_131
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 30
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637324ebcfa70f4b9ab73e58988014d
+      internalID: -7973165078306094669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_132
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 48
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518f3b60e202a04da821ba9a2e28295
+      internalID: -7917948376208879999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 459
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b4036bd7e81d4ab3d7149f66d503f
+      internalID: -880685134096698105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_134
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 102
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a699dc995dbf364a836b535758c419a
+      internalID: 610827865251799447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 459
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820747e2a5d8be4587fd1bf243379f5
+      internalID: 629875573885476557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_136
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 80
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d70320feaa3b14589c997a8f89e2e5
+      internalID: -4044217084303756038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 459
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f68fdd8a43d24aa75381bba6616f6
+      internalID: -1406695616950777932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_138
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 58
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfe9b8fff930a4e816818e88339f5b
+      internalID: 6235441512821439868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_139
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ab1918e3962f4daa04f9489346a1d
+      internalID: -6121630778528895888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_140
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c8244ec4c872409b1cf63df463eac
+      internalID: 8540472237963428690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 459
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2072ef59e753843874af0a4e6ffc2b
+      internalID: 3821973586462793996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_142
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 36
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572d1fee6f4b2a41a7cd996f8bbf452
+      internalID: 1062998261242501238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_143
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 14
+        width: 459
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5bbfb758fdea64988dc50b876cbfa4
+      internalID: 8498152589388503379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lol icons hud_144
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 14
+        width: 156
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9807d2e4037a4abc2636a1d109f5a
+      internalID: 6012831935223513652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2257a742f6cd7a418a1dda71f8aa190
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
